@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurhan007&label=Profile%20views&color=0e75b6&style=flat" alt="nurhan007" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence,python,C#**
+- 🌱 I’m currently learning **Remote Sensing and ARCGIS PRO with Image processing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
